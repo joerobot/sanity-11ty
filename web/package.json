@@ -20,7 +20,7 @@
     "clean-css": "^4.2.1",
     "dotenv": "^8.2.0",
     "groq": "^0.142.0",
-    "luxon": "^1.19.3",
+    "luxon": "^1.28.1",
     "markdown-it": "^10.0.0",
     "markdown-it-anchor": "^5.2.5"
   }
